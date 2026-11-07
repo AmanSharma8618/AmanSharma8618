@@ -1,165 +1,99 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&height=80&lines=AMAN+SHARMA" alt="Aman Sharma"/>
+<p><sub>WOW PROFILE · AMANSHARMA8618 · LIVE</sub></p>
 
-### STORE & PURCHASE DEPARTMENT
-
-📍 Vasai West, Maharashtra, India
-
-<a href="https://github.com/AmanSharma8618"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://insta.openinapp.co/7fjq9"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.openinapp.co/iznll"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sharmaaman8618@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/918976063023"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=living-identity&label=Aman%20Sharma&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=living-identity&label=Aman%20Sharma&v=wow-living-identity-1&mode=dark" width="100%" alt="Aman Sharma animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Product-minded developer</strong> · the public internet</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/amansharma8618">GitHub</a></p>
 </div>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 💫 About Me
+<h2>Identity, with signal</h2>
 
-B.Com graduate with over 1 year of experience in the Store Department of a manufacturing company. Experienced in handling Stock Memos, MRNs, Purchase Orders and BOM updates using **Prowess ERP**. Skilled in preparing Delivery Challans and Gate Passes in **MS Excel**, maintaining accurate inventory documentation and coordinating store operations. **Tally Prime trained.**
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `shipping useful work`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>1</strong> repos<br /><strong>0</strong> stars<br /><strong>8</strong> contributions<br /><strong>0</strong> followers</p></td>
+</tr>
+</table>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 💼 Professional Experience
+<h2>What moves the work</h2>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&items=Product-minded%20developer%3A%3AA%20point%20of%20view%20shaped%20by%20shipped%20work%7C1%20public%20repositories%3A%3AA%20body%20of%20work%20in%20motion%7C0%20stars%3A%3ACommunity%20signal%20around%20the%20work&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&items=Product-minded%20developer%3A%3AA%20point%20of%20view%20shaped%20by%20shipped%20work%7C1%20public%20repositories%3A%3AA%20body%20of%20work%20in%20motion%7C0%20stars%3A%3ACommunity%20signal%20around%20the%20work&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Aman Sharma animated profile highlights" />
+</picture>
 
-<img src="./assets/experience.svg" width="100%" alt="Live Professional Experience"/>
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
 
-</div>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-### Stores Department
+<h2>The tools behind the signal</h2>
 
-📍 Naik Pada, Vasai East, Maharashtra
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Aman Sharma animated technology stack" />
+</picture>
 
-📅 July 2025 – Present
+<p align="center"><sub>Open source · chosen for the work, not the trend</sub></p>
 
-- Managed day-to-day stock movement and maintained inventory records.
-- Generated Stock Memos and MRNs in Prowess ERP.
-- Created Purchase Orders and updated BOMs in Prowess ERP.
-- Prepared Delivery Challans and Gate Passes in MS Excel.
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
----
+<h2>Built, shipped, shared</h2>
 
-## 🎓 Education & Academic Performance
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Aman Sharma animated project constellation" />
+</picture>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Aman Sharma animated project launch timeline" />
+</picture>
 
-### BACHELOR OF COMMERCE (B.COM)
+<table width="100%">
+<tr>
+<td width="100%" valign="top"><p><strong><a href="https://github.com/AmanSharma8618/AmanSharma8618">AmanSharma8618</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<img src="./assets/bcom-circle.svg" width="160" alt="B.Com Percentage: 58.33%"/>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-**SKC Degree College**
+<h2>Momentum, made visible</h2>
 
-Diwanman, Vasai West
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Aman Sharma animated GitHub signal" />
+</picture>
 
-**University:** University of Mumbai
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-**Duration:** August 2021 – October 2024
+<h2>The trail behind the work</h2>
 
-**Percentage: 58.33%**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Aman Sharma contribution energy field" />
+</picture>
 
----
+<p align="center"><sub>1 day current streak · 3 active days</sub></p>
 
-### HIGHER SECONDARY CERTIFICATE (HSC)
-
-<img src="./assets/hsc-circle.svg" width="145" alt="HSC Percentage: 62.83%"/>
-
-**St. Peter Junior College of Science & Commerce**
-
-Diwanman, Vasai West
-
-**Board:** Maharashtra State Board
-
-**Duration:** March 2020 – August 2021
-
-**Percentage: 62.83%**
-
----
-
-### SECONDARY SCHOOL CERTIFICATE (SSC)
-
-<img src="./assets/ssc-circle.svg" width="145" alt="SSC Percentage: 42.66%"/>
-
-**Rajiv Gandhi Hindi High School**
-
-Anand Nagar, Vasai West
-
-**Board:** Maharashtra State Board
-
-**Duration:** March 2018 – April 2019
-
-**Percentage: 42.66%**
-
-</div>
-
----
-
-## 🛠️ Technical Skills
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/PROWESS_ERP-1F4E79?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TALLY_PRIME-E8272C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MS_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCC-5C2D91?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📜 Certifications & Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TALLY_PRIME-CERTIFICATION-E8272C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/POSTER_MAKING-FIRST_PRIZE-D4AF37?style=for-the-badge"/>
-
-</div>
-
-- Tally Prime Certification
-- First Prize in Poster Making Competition
-
----
-
-## 🌍 Languages & Communication
-
-<div align="center">
-
-<img src="./assets/languages.svg" width="100%" alt="Language Proficiency"/>
-
-</div>
-
-| Language | Proficiency |
-|:---|:---|
-| Hindi | Read, Write, Speak |
-| English | Write, Understand |
-| Marathi | Basic Speaking, Understand |
-
----
-
-## 📫 Let's Connect
-
-I am open to opportunities in **Stores, Inventory, Purchase and ERP Operations**.
-
-<div align="center">
-
-<a href="mailto:sharmaaman8618@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<a href="https://wa.me/918976063023"><img src="https://img.shields.io/badge/WHATSAPP-LET'S_CONNECT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-<br/><br/>
-
-<a href="https://linkedin.openinapp.co/iznll"><img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://insta.openinapp.co/7fjq9"><img src="https://img.shields.io/badge/INSTAGRAM-PROFILE-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AmanSharma8618&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Aman Sharma contact links" />
+</picture>
+<p><a href="https://github.com/amansharma8618">GitHub</a></p>
+<p><sub>Aman Sharma · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
