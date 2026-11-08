@@ -13,6 +13,15 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
+<div align="center">
+<h2>Tech & Tools</h2>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,mysql,python,linux,github,vscode&perline=8&theme=dark" alt="Development tools" />
+<br/><br/>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
 <h2>Identity, with signal</h2>
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
