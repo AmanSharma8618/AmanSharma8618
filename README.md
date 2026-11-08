@@ -95,5 +95,16 @@
   <img src="https://www.gitskins.com/api/section/social?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Aman Sharma contact links" />
 </picture>
 <p><a href="https://github.com/amansharma8618">GitHub</a></p>
-<p><sub>Aman Sharma · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-</div>
+<p align="center">
+  <a href="https://linkedin.openinapp.co/iznll">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="sharmaaman8618@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+&nbsp;&nbsp;
+  <a href="https://insta.openinapp.co/7fjq9">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
