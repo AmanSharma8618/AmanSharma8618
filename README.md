@@ -100,7 +100,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sharmaaman8618@://gmail.com">
+  <a href="mailto:sharmaaman8618@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 &nbsp;&nbsp;
