@@ -1,16 +1,24 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aman%20Sharma&fontSize=70&animation=twinkling" alt="Aman Sharma profile header" />
+</p>
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://fb.openinapp.co/82kxf">Aman Sharma</a></b>
+    </samp>
+</h3>
 <div align="center">
+<br>
+<img src="https://komarev.com/ghpvc/?username=amansharma8618&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Location-Vasai%2C%20Maharashtra-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" alt="Open to opportunities" />
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<div align="center">
+<h2>Summary</h2>
 
-<p><sub>WOW PROFILE · AMANSHARMA8618 · LIVE</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=living-identity&label=Aman%20Sharma&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=living-identity&label=Aman%20Sharma&v=wow-living-identity-1&mode=dark" width="100%" alt="Aman Sharma animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Product-minded developer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/amansharma8618">GitHub</a></p>
-</div>
-
+B.Com graduate with 1+ year of hands-on experience in the Stores Department of a manufacturing company.
+I handle the complete paperwork and system entries behind stock movement, so that materials are tracked correctly from receipt to issue.
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <div align="center">
@@ -22,87 +30,62 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>Identity, with signal</h2>
+<h2>Skills</h2>
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `shipping useful work`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>1</strong> repos<br /><strong>0</strong> stars<br /><strong>8</strong> contributions<br /><strong>0</strong> followers</p></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Prowess%20ERP-0A66C2?style=for-the-badge&logo=sap&logoColor=white" alt="Prowess ERP" />
+<img src="https://img.shields.io/badge/Tally%20Prime-E31E24?style=for-the-badge&logoColor=white" alt="Tally Prime" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Inventory%20Management-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Inventory Management" />
+<img src="https://img.shields.io/badge/CCC-Computer%20Concepts-6E40C9?style=for-the-badge" alt="CCC" />
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+</div>
 
-<h2>What moves the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&items=Product-minded%20developer%3A%3AA%20point%20of%20view%20shaped%20by%20shipped%20work%7C1%20public%20repositories%3A%3AA%20body%20of%20work%20in%20motion%7C0%20stars%3A%3ACommunity%20signal%20around%20the%20work&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&items=Product-minded%20developer%3A%3AA%20point%20of%20view%20shaped%20by%20shipped%20work%7C1%20public%20repositories%3A%3AA%20body%20of%20work%20in%20motion%7C0%20stars%3A%3ACommunity%20signal%20around%20the%20work&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Aman Sharma animated profile highlights" />
-</picture>
-
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+| Area | What I do |
+|------|-----------|
+| **Inventory & Stores** | Stock movement, stock records, material documentation |
+| **ERP (Prowess)** | Stock Memo, MRN, Purchase Order, BOM updates |
+| **Documentation** | Delivery Challan, Gate Pass (Excel) |
+| **Accounting Tool** | Tally Prime |
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>The tools behind the signal</h2>
+<h2>Education</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Aman Sharma animated technology stack" />
-</picture>
-
-<p align="center"><sub>Open source · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Aman Sharma animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&repos=amansharma8618%2FAmanSharma8618&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Aman Sharma animated project launch timeline" />
-</picture>
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top"><p><strong><a href="https://github.com/AmanSharma8618/AmanSharma8618">AmanSharma8618</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
+| Qualification | Institute | Year |
+|---------------|-----------|------|
+| **B.Com** (University of Mumbai) | SKC Degree College, Diwanman, Vasai West | 2021 – 2024 |
+| **HSC** (Maharashtra State Board) | St. Peter Junior College of Science & Commerce | 2020 – 2021 |
+| **SSC** (Maharashtra State Board) | Rajiv Gandhi Hindi High School | 2018 – 2019 |
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>Momentum, made visible</h2>
+<h2>GitHub Stats</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Aman Sharma animated GitHub signal" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amansharma8618&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Aman Sharma contribution energy field" />
-</picture>
-
-<p align="center"><sub>1 day current streak · 3 active days</sub></p>
+<img height="170" src="https://streak-stats.demolab.com?user=amansharma8618&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=amansharma8618&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F338478294%3Fu%3D63e656cc0bb88e016bded21919cae91df31f9763%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Aman Sharma contact links" />
-</picture>
+<h2>Languages</h2>
+
+![Hindi](https://img.shields.io/badge/Hindi-Read%20%7C%20Write%20%7C%20Speak-orange?style=flat-square)
+![English](https://img.shields.io/badge/English-Write%20%7C%20Understand-blue?style=flat-square)
+![Marathi](https://img.shields.io/badge/Marathi-Basic%20Speaking%20%7C%20Understand-green?style=flat-square)
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Certifications & Achievements</h2>
+
+- **Tally Prime**
+- **Course on Computer Concepts (CCC)**
+- **First Prize — Poster Making Competition**
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <p><a href="https://github.com/amansharma8618">GitHub</a></p>
 <p align="center">
   <a href="https://linkedin.openinapp.co/iznll">
@@ -117,3 +100,14 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+<p align="center">
+    <a href="docs/easter-eggs/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
+</p>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let's+work+together!" alt="Footer typing animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
